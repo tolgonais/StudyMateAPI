@@ -4,145 +4,33 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1053be7-a6c5-47fe-8eda-8aad2bf255e6" name="Changes" comment="">
-<<<<<<< HEAD
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/Runner.java" afterDir="false" />
+    <list default="true" id="930b8d5e-b2a1-401c-81ba-fcc358b135bd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/CoursesSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/CoursesSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/DeleteAnnouncementSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/DeleteAnnouncementSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/Announcements.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Announcements.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/Courses.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/Courses.feature" afterDir="false" />
-=======
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/entities/RequestBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/entities/RequestBody.java" afterDir="false" />
->>>>>>> 9d7bc7d639f9597ac27bd4ada3b4076fc914601d
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 4
-}</component>
-  <component name="ProjectId" id="2YHHGHMKahEX9FjAohnVrHNEmcB" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/tolgonaisherikbaeva/Desktop/Java Codewise/StudyMateAPI/src/test/java&quot;
-  }
-}</component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/test/java" />
-      <recent name="$PROJECT_DIR$/src/test/java/utilities" />
-      <recent name="$PROJECT_DIR$/src" />
-    </key>
-  </component>
-<<<<<<< HEAD
-  <component name="RunManager" selected="JUnit.Runner">
-    <configuration name="AuthorizationToken" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="steps.AuthorizationToken" />
-=======
-  <component name="RunManager" selected="Cucumber Java.Scenario: Get all Announcements">
-    <configuration name="UpdateAnnouncementSteps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="steps.UpdateAnnouncementSteps" />
->>>>>>> 9d7bc7d639f9597ac27bd4ada3b4076fc914601d
-      <module name="StudyMateAPI" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="steps.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Feature: Announcements" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Cucumber Java.Scenario: get all the courses on the website">
+    <configuration name="Scenario: get all the courses on the website" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Announcements.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Courses.feature" />
       <option name="GLUE" value="steps" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="StudyMateAPI" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: Announcements" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: Delete Announcement" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Announcements.feature" />
-      <option name="GLUE" value="steps" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="StudyMateAPI" />
-      <option name="NAME_FILTER" value="^Delete Announcement$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Delete Announcement$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Delete Announcement" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: Get all Announcements" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Announcements.feature" />
-      <option name="GLUE" value="steps" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="StudyMateAPI" />
-      <option name="NAME_FILTER" value="^Get all Announcements$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Get all Announcements$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Get all Announcements" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: Update Announcement" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Announcements.feature" />
-      <option name="GLUE" value="steps" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="StudyMateAPI" />
-      <option name="NAME_FILTER" value="^Update Announcement$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Update Announcement$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: Update Announcement" />
+      <option name="NAME_FILTER" value="^get all the courses on the website$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^get all the courses on the website$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: get all the courses on the website" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -171,28 +59,19 @@
     </configuration>
     <recent_temporary>
       <list>
-<<<<<<< HEAD
+        <item itemvalue="Cucumber Java.Scenario: get all the courses on the website" />
         <item itemvalue="JUnit.Runner" />
-        <item itemvalue="Application.CoursesSteps" />
-        <item itemvalue="Cucumber Java.Scenario: " />
-=======
-        <item itemvalue="Cucumber Java.Scenario: Get all Announcements" />
-        <item itemvalue="Cucumber Java.Feature: Announcements" />
-        <item itemvalue="Cucumber Java.Scenario: Update Announcement" />
-        <item itemvalue="Application.UpdateAnnouncementSteps" />
-        <item itemvalue="Cucumber Java.Scenario: Delete Announcement" />
->>>>>>> 9d7bc7d639f9597ac27bd4ada3b4076fc914601d
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c1053be7-a6c5-47fe-8eda-8aad2bf255e6" name="Changes" comment="" />
-      <created>1700175493885</created>
+      <changelist id="930b8d5e-b2a1-401c-81ba-fcc358b135bd" name="Changes" comment="" />
+      <created>1701213295023</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1700175493885</updated>
+      <updated>1701213295023</updated>
     </task>
     <servers />
   </component>

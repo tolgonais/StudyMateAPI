@@ -10,7 +10,7 @@ import utilities.Config;
 public class DeleteAnnouncementSteps {
 
     Response response;
-    int id  = 206;
+    int id  = 205;
 
     @When("the user wants to delete an existing announcement")
     public void the_user_wants_to_delete_an_existing_announcement() {
